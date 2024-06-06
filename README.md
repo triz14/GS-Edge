@@ -28,7 +28,6 @@ Informações sobre alguns componentes usados na criação do projeto:
 - Potenciômetro -  é um tipo de resistor ajustável, ou seja, um componentes cuja resistência elétrica pode ser regulada manualmente.
 - Sensor ultrassônico - é usado para medir a distância entre objetos, e também pode ser usado para detectar objetos em movimento. 
 - Jumpers - são cabos utilizados para fazer conexões entre os diversos componentes do circuito;
-- Bateria 9V - fonte de alimentação
 
 
 ## Bibliotecas utilizadas
